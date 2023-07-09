@@ -142,3 +142,71 @@
     margin-bottom: 15px;
     width: 70px;
   }
+  /* contact style */
+  .contact-container {
+    width: 990px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff3b3b;
+    color: #fff;
+    padding: 30px 20px;
+    border-radius: 10px;
+    height: 100px;
+  }
+  .call-box img {
+    width: 50px;
+  }
+  .contact-section {
+    margin-top: -40px;
+  }
+  .call-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+  .contact-phone-nub {
+    margin-left: 20px;
+  }
+  .contact-phone-nub h5 {
+    margin-bottom: 5px;
+  }
+  .contact-info p {
+    width: 478px;
+    margin: auto;
+    text-align: center;
+  }
+  /* news style */
+
+  .news-section {
+    padding-bottom: 80px;
+    background-color: #766f6f;
+  }
+  .news-section h1 {
+    color: #fff;
+    font-size: 45px;
+    text-align: center;
+    padding: 40px 0px;
+  }
+  .news-container {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 1140px;
+    margin: auto;
+    
+  }
+  .news-box img {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  .news-box h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  .news-box p {
+    width: 282px;
+  }
